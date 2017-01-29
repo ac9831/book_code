@@ -1,4 +1,4 @@
-package rule.twemtutwo.myset;
+package rule.twentytwo.myset;
 
 import java.util.AbstractSet;
 import java.util.Iterator;
